@@ -6,7 +6,9 @@ The syllabus of the course is available [here](./Syllabus.pdf). The repo also co
 ## Week 5
 In this [exercise](./Problem_set_1/problem_set_1.pdf), we set up a Python environment for Machine learning.  We create our first feed-forward neural network that learns to classify data into two or three classes using [Keras](https://keras.io) and [PyTorch](https://pytorch.org/docs/stable/). 
 
+<center>
 <img src="./Problem_set_1/example_1.1_prediction.png" width="300px"/>  <img src="./Problem_set_1/example_1.1_loss.png" width="300px"/>
+</center>
 
 We also use CMS collider data (publicly available from [http://opendata.web.cern.ch](http://opendata.web.cern.ch)) to learn to predict the invariant mass of the Z boson in a Z -> e+ e- decay. The repository for the exercise with templates and solutions is available [here](./Problem_set_1/).
 
