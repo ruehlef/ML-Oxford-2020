@@ -1,6 +1,6 @@
 # Supplementary material for the Lecture "Introduction to ML for Physicists"
 
-The syllabus of the course is available [here](./Syllabus.pdf). The repo also contains the exercises and solutions of the course.
+The syllabus of the course is available [here](./Syllabus.pdf). The repo also contains the exercises and solutions of the course. The course is based on my Physics Report [Data science applications to string theory](https://www.sciencedirect.com/science/article/pii/S0370157319303072?via%3Dihub). If you find the code provided here useful in your research, please consider [citing it](./PhysicsReport.bib).
 
 
 ## Week 5
