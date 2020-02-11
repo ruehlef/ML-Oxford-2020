@@ -9,7 +9,7 @@ In this [exercise](./Problem_set_1/problem_set_1.pdf), we set up a Python enviro
 <img src="./Problem_set_1/example_1.1_prediction.png" width="300px"/>&nbsp;&nbsp;&nbsp;<img src="./Problem_set_1/example_1.1_loss.png" width="300px"/>
 </p>
 
-We also use CMS collider data, publicly available from [CERN Open data](http://opendata.web.cern.ch), to learn to predict the invariant mass of the Z boson in a Z &rarr; e+ e- decay. The repository for the exercise with templates and solutions is available [here](./Problem_set_1).
+We also use CMS collider data, publicly available from [CERN opendata](http://opendata.web.cern.ch), to learn to predict the invariant mass of the Z boson in a Z &rarr; e+ e- decay. The repository for the exercise with templates and solutions is available [here](./Problem_set_1).
 
 <p align="center">
 <img src="./Problem_set_1/Invariant_mass.png" width="300px"/>&nbsp;&nbsp;&nbsp;<img src="./Problem_set_1/example_1.1e_loss.png" width="300px"/>
