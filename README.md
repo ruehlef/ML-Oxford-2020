@@ -38,8 +38,12 @@ and took the actions
 ## Week 8
 In this [exercise](./Problem_set_4/problem_set_4.pdf), we illustrate different unsupervised clustering algorithms (k-means, mean shift, DBSCAN, Birch) that were discussed in class using [scikit learn](https://scikit-learn.org/stable/). The repository for the exercise with templates and solutions is available [here](./Problem_set_4/).
 
-<img src="./Problem_set_4/KMeans.png" width="400px"/> <img src="./Problem_set_4/Birch.png" width="400px"/>
+<p align="center">
+<img src="./Problem_set_4/KMeans.png" width="400px"/>&nbsp;&nbsp;&nbsp;<img src="./Problem_set_4/Birch.png" width="400px"/>
+</p>
 
 We furthermore use genetic algorithms to minimize a superpotential of an N=1 SUSY theory, which arises e.g. from string theory.
 
-<img src="./Problem_set_4/Minimum_kahler.png" width="400px"/> <img src="./Problem_set_4/Minimum_axions.png" width="400px"/>
+<p align="center">
+<img src="./Problem_set_4/Minimum_kahler.png" width="400px"/>&nbsp;&nbsp;&nbsp;<img src="./Problem_set_4/Minimum_axions.png" width="400px"/>
+</p>
