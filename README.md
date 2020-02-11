@@ -1,7 +1,6 @@
 # Supplementary material for the Lecture "Introduction to ML for Physicists"
 
-The syllabus of the course is available [here](./Syllabus.pdf). The repo also contains the exercises and solutions of the course. The course is based on my Physics Report [Data science applications to string theory](https://www.sciencedirect.com/science/article/pii/S0370157319303072?via%3Dihub). If you find the code provided here useful in your research, please consider [citing it](./PhysicsReport.bib).
-
+The syllabus of the course is available [here](./Syllabus.pdf). The repo also contains the exercises and solutions of the course. The course is based on my Physics Report [Data science applications to string theory](https://doi.org/10.1016/j.physrep.2019.09.005). If you find the code provided here useful in your research, please consider [citing it](./PhysicsReport.bib).
 
 ## Week 5
 In this [exercise](./Problem_set_1/problem_set_1.pdf), we set up a Python environment for Machine learning.  We create our first feed-forward neural network that learns to classify data into two or three classes using [Keras](https://keras.io) and [PyTorch](https://pytorch.org/docs/stable/). 
