@@ -5,15 +5,14 @@ The syllabus of the course is available [here](./Syllabus.pdf). The repo also co
 
 ## Week 5
 In this [exercise](./Problem_set_1/problem_set_1.pdf), we set up a Python environment for Machine learning.  We create our first feed-forward neural network that learns to classify data into two or three classes using [Keras](https://keras.io) and [PyTorch](https://pytorch.org/docs/stable/). 
-
-<div style='text-algin: center; display: inline-block;'>
+<p align="center">
 <img src="./Problem_set_1/example_1.1_prediction.png" width="300px"/>&nbsp;&nbsp;&nbsp;<img src="./Problem_set_1/example_1.1_loss.png" width="300px"/>
-</div>
-
+</p>
 We also use CMS collider data (publicly available from [http://opendata.web.cern.ch](http://opendata.web.cern.ch)) to learn to predict the invariant mass of the Z boson in a Z -> e+ e- decay. The repository for the exercise with templates and solutions is available [here](./Problem_set_1/).
 
+<p align="center">
 <img src="./Problem_set_1/Invariant_mass.png" width="300px"/>&nbsp;&nbsp;&nbsp;<img src="./Problem_set_1/example_1.1e_loss.png" width="300px"/>
-
+</p>
 
 ## Week 6
 In this [exercise](./Problem_set_2/problem_set_2.pdf), we create our first convolutional neural network using PyTorch. We classify galaxies into spiral, elliptical or unknown. The data is provided by the [Galaxy Zoo](https://data.galaxyzoo.org) project. See [http://adsabs.harvard.edu/abs/2008MNRAS.389.1179L](http://adsabs.harvard.edu/abs/2008MNRAS.389.1179L) for more details. The pictures of the galaxies themselves are provided by the [Sloane Digital Sky Survey](https://www.sdss.org). The repository for the exercise with templates and solutions is available [here](./Problem_set_2/).
