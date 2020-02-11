@@ -8,10 +8,11 @@ In this [exercise](./Problem_set_1/problem_set_1.pdf), we set up a Python enviro
 
 <div style='text-algin: center; display: inline-block;'>
 <img src="./Problem_set_1/example_1.1_prediction.png" width="300px"/>&nbsp;&nbsp;&nbsp;<img src="./Problem_set_1/example_1.1_loss.png" width="300px"/>
+</div>
 
 We also use CMS collider data (publicly available from [http://opendata.web.cern.ch](http://opendata.web.cern.ch)) to learn to predict the invariant mass of the Z boson in a Z -> e+ e- decay. The repository for the exercise with templates and solutions is available [here](./Problem_set_1/).
 
-<img src="./Problem_set_1/Invariant_mass.png" width="300px"/>
+<img src="./Problem_set_1/Invariant_mass.png" width="300px"/>&nbsp;&nbsp;&nbsp;<img src="./Problem_set_1/example_1.1e_loss.png" width="300px"/>
 
 
 ## Week 6
