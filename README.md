@@ -22,7 +22,7 @@ NN preidction:
 <tr>
 <td><img src="./Problem_set_2/galaxy_spiral.png" width="200px"/></td><td><img src="./Problem_set_2/galaxy_elliptical.png" width="200px"/></td><td><img src="./Problem_set_2/galaxy_unknown.png" width="200px"/></td>
 </tr><tr>
-<td>spiral: 82%, elliptical: 10%, unknown: 8%</td><td>spiral: 8%, elliptical: 90%, unknown: 2%</td><td>spiral: 12%, elliptical: 10%, unknown: 78%</td>
+<td>spiral: 82%<br/>elliptical: 10%<br/>unknown: 8%</td><td>spiral: 8%<br/>elliptical: 90%<br/>unknown: 2%</td><td>spiral: 12%<br/>elliptical: 10%<br/>unknown: 78%</td>
 </tr>
 </table>
 
