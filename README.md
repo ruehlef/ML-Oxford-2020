@@ -17,9 +17,14 @@ We also use CMS collider data, publicly available from [CERN opendata](http://op
 ## Week 6
 In this [exercise](./Problem_set_2/problem_set_2.pdf), we create our first convolutional neural network using PyTorch. We classify galaxies into spiral, elliptical or unknown. The data is provided by the [Galaxy Zoo](https://data.galaxyzoo.org) project. See [this publication](http://adsabs.harvard.edu/abs/2008MNRAS.389.1179L) for more details. The pictures of the galaxies themselves are provided by the [Sloan Digital Sky Survey](https://www.sdss.org). The repository for the exercise with templates and solutions is available [here](./Problem_set_2/).
 
-NN predicting this is a spiral galaxy:
-
-<img src="./Problem_set_2/galaxy.png" width="300px"/> 
+NN preidction:
+<table>
+<tr>
+<td><img src="./Problem_set_2/galaxy_spiral.png" width="200px"/></td><td><img src="./Problem_set_2/galaxy_elliptical.png" width="200px"/></td><td><img src="./Problem_set_2/galaxy_unknown.png" width="200px"/></td>
+</tr><tr>
+<td>spiral: 82%, elliptical: 10%, unknown: 8%</td><td>spiral: 8%, elliptical: 90%, unknown: 2%</td><td>spiral: 12%, elliptical: 10%, unknown: 78%</td>
+</tr>
+</table>
 
 (Image source: [https://www.sdss.org](https://www.sdss.org))
 
