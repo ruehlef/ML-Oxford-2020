@@ -31,8 +31,8 @@ contour_plot = plt.contourf(eeta, ttau, v, 30)
 plt.colorbar(contour_plot)
 
 plt.title(r'Contour Plot in $\eta,\tau$ plane')
-plt.xlabel('s')
-plt.ylabel('t')
+plt.xlabel(r'$\eta$')
+plt.ylabel(r'$\tau$')
 plt.show()
 
 
@@ -155,6 +155,6 @@ plt.colorbar(contour_plot)
 plt.scatter(winner[2], winner[3], c='r', marker='o')
 
 plt.title(r'Contour Plot in $\eta,\tau$ plane')
-plt.xlabel('s')
-plt.ylabel('t')
+plt.xlabel(r'$\eta$')
+plt.ylabel(r'$\tau$')
 plt.show()

@@ -24,19 +24,19 @@ NN predicting this is a spiral galaxy:
 (Image source: [https://www.sdss.org](https://www.sdss.org))
 
 ## Week 7
-In this [exercise](./Problem_set_3/problem_set_3.pdf), we demonstrate how to code an environment that can be connected via the OpenAI gym to [ChainerRL](https://github.com/chainer/chainerrl). We illustrate how the the A3C agent finds good energy configurations for the 1D Ising model by flipping spins at any of the lattice sites.The repository for the exercise with templates and solutions is available [here](./Problem_set_3/).
+In this [exercise](./Problem_set_3/problem_set_3.pdf), we demonstrate how to code an environment that can be connected via the OpenAI gym to [ChainerRL](https://github.com/chainer/chainerrl). We illustrate how the the A3C agent finds good energy configurations for the 1D Ising model by flipping spins at any of the lattice sites. The repository for the exercise with templates and solutions is available [here](./Problem_set_3/).
 
 ```
 I found an optimal configuration!
-↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ 
+↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑
 I started from
-↑ ↑ ↓ ↓ ↑ ↑ ↑ ↑ ↑ ↓ ↓ ↑ ↓ ↑ ↑ 
+↑ ↑ ↓ ↓ ↑ ↑ ↑ ↑ ↑ ↓ ↓ ↑ ↓ ↑ ↑ ↓ ↑
 and took the actions
-[10, 2, 3, 9, 12]
+[10, 2, 3, 9, 12, 15]
 ``` 
 
 ## Week 8
-In this [exercise](./Problem_set_4/problem_set_4.pdf), we illustrate different unsupervised clustering algorithms (k-means, mean shift, DBSCAN, Birch) that were discussed in class using [scikit learn](https://scikit-learn.org/stable/). The repository for the exercise with templates and solutions is available [here](./Problem_set_4/).
+In this [exercise](./Problem_set_4/problem_set_4.pdf), we illustrate different unsupervised clustering algorithms (k-means, mean shift, DBSCAN, Birch) that were discussed in class using [scikit learn](https://scikit-learn.org/stable/).
 
 <p align="center">
 <img src="./Problem_set_4/KMeans.png" width="400px"/>&nbsp;&nbsp;&nbsp;<img src="./Problem_set_4/Birch.png" width="400px"/>
@@ -48,3 +48,4 @@ We furthermore use genetic algorithms to minimize a superpotential of an N=1 SUS
 <img src="./Problem_set_4/Minimum_kahler.png" width="400px"/>&nbsp;&nbsp;&nbsp;<img src="./Problem_set_4/Minimum_axions.png" width="400px"/>
 </p>
 
+ The repository for the exercise with templates and solutions is available [here](./Problem_set_4/).
