@@ -20,7 +20,7 @@ In this [exercise](./Problem_set_2/problem_set_2.pdf), we create our first convo
 NN preidction:
 <table>
 <tr>
-<td><img src="./Problem_set_2/galaxy_spiral.png" width="200px"/></td><td><img src="./Problem_set_2/galaxy_elliptical.png" width="200px"/></td><td><img src="./Problem_set_2/galaxy_unknown.png" width="200px"/></td>
+<td><img src="./Problem_set_2/galaxy_spiral.png" width="250px"/></td><td><img src="./Problem_set_2/galaxy_elliptical.png" width="250px"/></td><td><img src="./Problem_set_2/galaxy_unknown.png" width="250px"/></td>
 </tr><tr>
 <td>spiral: 82%<br/>elliptical: 10%<br/>unknown: 8%</td><td>spiral: 8%<br/>elliptical: 90%<br/>unknown: 2%</td><td>spiral: 12%<br/>elliptical: 10%<br/>unknown: 78%</td>
 </tr>
